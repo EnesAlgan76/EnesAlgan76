@@ -1,11 +1,7 @@
 ### Hi there, I'am Enes 👋
 
-
-**EnesAlgan76/EnesAlgan76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Flutter and Kotlin
 - 🌱 I’m currently learning Kotlin,
 - ⚡ Fun fact: .I love playing piano, woodworking and coding
 
+<a href="https://www.instagram.com/enes_algan76/" target="blank"><img align="center" src="[URL_TO_YOUR_IMAGE](https://cdn-icons-png.flaticon.com/512/2111/2111463.png)" height="100" /></a>
