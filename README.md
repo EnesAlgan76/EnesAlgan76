@@ -4,5 +4,6 @@
 - 🌱 I’m currently learning Kotlin,
 - ⚡ Fun fact: .I love playing piano, woodworking and coding
 
-### Connect with me:
+## Connect with me:
+-lnlg
  <a href="https://www.instagram.com/enes_algan76/" target="blank"><img align="center" src="[URL_TO_YOUR_IMAGE](https://cdn-icons-png.flaticon.com/512/2111/2111463.png)" height="100" /></a>
