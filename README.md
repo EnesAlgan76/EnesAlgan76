@@ -5,7 +5,7 @@
 - ⚡ Fun fact: .I love playing piano, woodworking and coding
 
 ## Connect with me:
-[<img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png">](https://www.instagram.com/enes_algan76/)
+[<img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" height="100">](https://www.instagram.com/enes_algan76/)
 
 [<img alt="alt_text" width="40px" src="[images/image.PNG](https://cdn-icons-png.flaticon.com/512/2111/2111463.png)" />](https://www.google.com/)
 
