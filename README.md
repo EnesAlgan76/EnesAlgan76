@@ -7,6 +7,7 @@
 ## Connect with me:
 
   [<img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" height="40">](https://www.instagram.com/enes_algan76/)
+  [< width="40">]
   [<img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" height="40">](https://www.linkedin.com/in/enes-algan-69248b221/)
 
 
