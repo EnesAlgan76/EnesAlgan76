@@ -1,7 +1,7 @@
 ### Hi there, I'am Enes 👋
 
 - 🔭 I’m currently working on Flutter and Kotlin
-- 🌱 I’m currently learning Kotlin,
+- 🌱 Currently enhancing my skills in backend development with Kotlin and Java Spring, deploying on AWS and connecting to MySQL.
 - ⚡ Fun fact: .I love playing piano, woodworking and coding
 
 ## Connect with me:
