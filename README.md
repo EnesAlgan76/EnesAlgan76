@@ -27,6 +27,7 @@
   <img src="https://i0.wp.com/indiciatraining.com/wp-content/uploads/2020/05/spring-boot-logo.png?fit=800%2C718&ssl=1" alt="spring" width="40" />
   <img src="https://cdn.iconscout.com/icon/free/png-256/free-amazon-aws-3628617-3029842.png" alt="firebase" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" /> 
+  <img src="https://static-00.iconduck.com/assets.00/postgresql-icon-1987x2048-v2fkmdaw.png" alt="postgresql" width="40" /> 
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" /> 
 </p>
 
